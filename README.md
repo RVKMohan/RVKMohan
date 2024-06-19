@@ -5,7 +5,7 @@
 - ✉️  You can contact me at [rvkmohan07@gmail.com](mailto:rvkmohan07@gmail.com)
 - 🚀  I'm currently working on [Full Stack MERN E-Commerce Application](https://github.com/RVKMohan/E-Commerce_Website-MERN-STACK.git)
 - 🧠  I'm learning Typescript and NestJs(Backend framework)
-- 🤝  I'm open to collaborating on Frontend Applications With React and backend Node.js
+- 🤝  I'm open to collaborating on Full Stack Applications 
   <br> 
  <br> 
 
