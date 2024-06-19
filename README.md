@@ -30,6 +30,10 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+   <td align="center"  width="85">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
       <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -38,31 +42,34 @@
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
       <br>JavaScript
     </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
+      <br>TypeScript
     </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="tailwind" />
-      <br>Material UI
-    </td>
+   
   </tr>
 
 
   
   <tr>
+   <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=bootstarp" width="48" height="48" alt="nodejs" />
+      <br>Bootstrap
+    </td>
       <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
       <br>React
     </td>
-     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=angularjs" width="48" height="48" alt="tailwind" />
+      <br>AngularJS
     </td>
+      <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="tailwind" />
+      <br>Material UI
+    </td>
+    
+     
       
 </tr>
 
@@ -70,6 +77,10 @@
    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
+    </td>
+     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nodejs" />
+      <br>NestJS
     </td>
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="tailwind" />
