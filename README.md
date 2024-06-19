@@ -61,7 +61,7 @@
       <br>React
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=angularjs" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="tailwind" />
       <br>AngularJS
     </td>
       <td align="center" width="85">
