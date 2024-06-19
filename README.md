@@ -53,7 +53,7 @@
   
   <tr>
    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=bootstarp" width="48" height="48" alt="nodejs" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="nodejs" />
       <br>Bootstrap
     </td>
       <td align="center" width="85">
