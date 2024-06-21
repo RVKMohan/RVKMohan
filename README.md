@@ -99,7 +99,7 @@
       <br>  Python
     </td>
      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=antdesign" width="48" height="48" alt="nodejs" />
+        <img src="https://skillicons.dev/icons?i=antdesigns" width="48" height="48" alt="nodejs" />
       <br>Ant Designs
     </td>
      <td align="center" width="85">
