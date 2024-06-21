@@ -93,6 +93,26 @@
    
   </tr>
 
+  <tr>
+   <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="nodejs" />
+      <br>  Python
+    </td>
+     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=antdesign" width="48" height="48" alt="nodejs" />
+      <br>Ant Designs
+    </td>
+     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
+      <br>PhP
+    </td>
+      <td align="center" width="85">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
+      <br>MySQL
+    </td>
+   
+  </tr>
+
   
   
 </table>
