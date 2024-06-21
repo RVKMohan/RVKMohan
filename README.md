@@ -125,7 +125,7 @@
  
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RVKMohan&langs_count=6&title_color=333333&text_color=333333&icon_color=4caf50&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/RVKMohan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RVKMohan&langs_count=9&title_color=333333&text_color=333333&icon_color=4caf50&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/RVKMohan)
 </div>
 
 <div align="center">
