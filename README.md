@@ -99,16 +99,16 @@
       <br>  Python
     </td>
      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=ant-design" width="48" height="48" alt="nodejs" />
-      <br>Ant Designs
-    </td>
-     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
       <br>PhP
     </td>
-      <td align="center" width="85">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
-      <br>MySQL
+     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
+      <br>C
+    </td>
+       <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="tailwind" />
+      <br>Git
     </td>
    
   </tr>
