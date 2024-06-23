@@ -1,5 +1,21 @@
 # About Me 😃
-### Full Stack Developer skilled in JavaScript and python, specializing in front-end frameworks such as React, Angular. Adept at creating visually appealing designs with Bootstrap and Ant-Designs. 
+
+🚀 Hello! I'm Venkata Krishna Mohan Reddi
+Recent B.Tech Graduate | Budding Software Developer
+
+# Skills & Technologies:
+
+Languages: Python, C
+Web Development: ReactJS, AngularJS, NestJS, MERN stack
+# Highlighted Projects:
+### Capstone Project: Feature-rich ecommerce website (MERN stack)
+
+### Continuous Learning:
+Completed multiple courses in front-end web development
+Active in competitive coding platforms with global ranks
+Seeking Opportunities:
+
+# Looking for roles at the intersection of technology and innovation
   
 - 🌍  I'm based in India
 - ✉️  You can contact me at [rvkmohan07@gmail.com](mailto:rvkmohan07@gmail.com)
@@ -12,15 +28,9 @@
 # Lets Connect 🌐  
  <br> 
 <div align="center">
-<a href=" " target="_blank">
+<a href="https://www.linkedin.com/in/rvkmohan/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href=" " target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href=" " target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
  <br> 
  
