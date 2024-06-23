@@ -11,10 +11,6 @@ Web Development: ReactJS, AngularJS, NestJS, MERN stack
 # Highlighted Projects:
 ### Capstone Project: Feature-rich ecommerce website (MERN stack)
 <br> 
-### Continuous Learning:
-<br>
-Completed multiple courses in front-end web development
-Active in competitive coding platforms with global ranks
 
 ### Seeking Opportunities:
 Looking for roles at the intersection of technology and innovation
