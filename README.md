@@ -6,16 +6,18 @@ Recent B.Tech Graduate | Budding Software Developer
 # Skills & Technologies:
 
 Languages: Python, C
+<br> 
 Web Development: ReactJS, AngularJS, NestJS, MERN stack
 # Highlighted Projects:
 ### Capstone Project: Feature-rich ecommerce website (MERN stack)
-
+<br> 
 ### Continuous Learning:
+<br>
 Completed multiple courses in front-end web development
 Active in competitive coding platforms with global ranks
-Seeking Opportunities:
 
-# Looking for roles at the intersection of technology and innovation
+### Seeking Opportunities:
+Looking for roles at the intersection of technology and innovation
   
 - 🌍  I'm based in India
 - ✉️  You can contact me at [rvkmohan07@gmail.com](mailto:rvkmohan07@gmail.com)
